@@ -1,0 +1,4 @@
+První øádek
+Tento text je na druhém øádku
+A do tøetice.
+Pøipsanı øádek

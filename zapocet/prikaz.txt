@@ -1,0 +1,1 @@
+java prednasky.prohledavani_suboru ".*jpg" / >..\vysledek.txt
