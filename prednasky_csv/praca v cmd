@@ -1,0 +1,65 @@
+               Základy práce v pøíkazovém øádku Windows
+
+Chcete se nauèit základùm práce v pøíkazovém øádku? Poradíme vám, jak 
+listovat slokami, prohlíet seznam souborù nebo smazat obsah obrazovky.
+Pøíkazovı øádek je nedílnou souèástí Windows a své koøeny má ji ve 
+staøièkém systému MS-DOS. Èasto je dobré zvládnout alespoò nìkolik 
+základních pøíkazù, jeliko se vám mohou hodit pro zrychlení práce
+ nebo základní opravy systému. Pojïme se podívat na základy, které 
+ by mìl zvládat kadı.
+
+              Spuštìní pøíkazového øádku
+
+Ve Windows Vista napište do pole pro hledání v nabídce Start slovo cmd a 
+stisknìte Enter.
+
+
+              Pøechod mezi disky
+
+Napište písmeno jednotky, dvojteèku a stisknìte Enter. Napøíklad takto:
+
+d:
+              Vstup do adresáøe
+
+Napište cd, stisknìte mezerník a poté napište název adresáøe a následuje
+ Enter. Pokud chcete jít o nìkolik adresáøù hloubìji, pouijte pro oddìlení
+  adresáøù obrácené lomítko. Napøíklad takto:
+
+cd dokumenty\word
+
+                 Vıpis souborù a sloek v adresáøi
+
+Napište dir a stisknìte Enter. Pøípadnì mùete pouít nìkterou z nabízenıch 
+voleb:
+
+/p – pozastaví vıpis pøi dosaení konce okna
+
+/s – vypíše soubory nejen v daném adresáøi, ale i ve všech podadresáøích
+
+/w – pouije širokı formát vıpis na sloupce
+
+Volby mùete také kombinovat. Napøíklad takto:
+
+dir /s /p
+
+                      Opuštìní adresáøe
+
+Jestlie chcete adresáø opustit, pak pouijte pøíkaz cd.. a stisknìte Enter. Jestlie budete chtít jít o dvì úrovnì vıše, pak pro kadou úroveò pouijte zmínìné dvì teèky a mezi nì umístìte obrácené lomítko. Napøíklad takto:
+
+cd..
+
+cd..\..
+
+                  Další rychlé tipy
+
+Pro smazání obsahu obrazovky pouijte pøíkaz cls a stisknìte Enter.
+
+Opìtovné vyvolání posledního pøíkazu provedete klávesou F3. 
+Pøíkaz poté mùete dále upravovat a provede se opìt po stisku klávesy Enter.
+
+Pro zjištìní verze Windows napište ver a stisknìte Enter.
+
+
+Vztvorenie java programu 
+
+https://www.itnetwork.cz/java/kompilace/java-kompilace-a-build-v-prikazovem-radku-zaklady
